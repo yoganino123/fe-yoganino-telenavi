@@ -1,5 +1,25 @@
-# Vue 3 + TypeScript + Vite
+FE Yoganino Telenavi
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Installation**
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- **Clone repository:**
+
+```bash
+git clone https://github.com/yoganino123/fe-yoganino-telenavi.git
+cd .\fe-yoganino-telenavi
+```
+
+- **Install dependencies:**
+
+```bash
+npm install
+```
+
+- **Jalankan server:**
+
+```bash
+npm run dev
+```
+
+- **Akses Localhost di: http://localhost:5173/**
+- **Akses Public (Deployed) di: https://fetestyoganino.netlify.app/**
